@@ -52,7 +52,7 @@ jobs:
 
           git add keepalive_log.txt
 
-          git commit -m "Auto Keepalive Update"  echo "No changes"
+          # git commit -m "Auto Keepalive Update"  echo "No changes"
 
           # 길을 잃지 않도록 main 또는 master 브랜치로 정확히 지정해서 밀어 넣습니다.
 
